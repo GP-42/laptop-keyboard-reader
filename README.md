@@ -1,9 +1,9 @@
 # laptop-keyboard-reader
 
-Thanks for the great job, [s12wu](https://github.com/s12wu)!
+Thanks for the great job, [s12wu](https://github.com/s12wu)!  
 Your code and wiring scheme really helped me out to reuse the keyboard of an antique Fujitsu Siemens Amilo Pro with a Belgian AZERTY keyboard.
 
-I used the version without the expander, and I also made some code changes to facilitate the use of NumLock as marked on the keyboard keys. (The keyboard does not have a dedicated numeric keypad.)
+I used the version without the expander, and I also made some code changes to facilitate the use of NumLock as marked on the keyboard keys. (The keyboard does not have a dedicated numeric keypad.)  
 This was my first project involving soldering. So, it was a journey of failing and learning. :)
 
 # Pictures of my journey
